@@ -1,0 +1,12 @@
+[02-Oct-2023 14:23:37 UTC] PHP Warning:  include(aside.php): failed to open stream: No such file or directory in /home/cso3qwk9mv4n/public_html/ecommerce/admin/index.php on line 178
+[02-Oct-2023 14:23:37 UTC] PHP Warning:  include(): Failed opening 'aside.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/cso3qwk9mv4n/public_html/ecommerce/admin/index.php on line 178
+[02-Oct-2023 14:33:54 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 540
+[02-Oct-2023 14:33:57 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 540
+[02-Oct-2023 14:34:55 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 539
+[02-Oct-2023 14:35:08 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 539
+[03-Oct-2023 13:24:10 UTC] PHP Notice:  Undefined index: p_details in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 298
+[03-Oct-2023 13:24:10 UTC] PHP Notice:  Undefined index: p_details in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 306
+[03-Oct-2023 13:24:10 UTC] PHP Notice:  Undefined index: p_details in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 298
+[03-Oct-2023 13:24:10 UTC] PHP Notice:  Undefined index: p_details in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 306
+[03-Oct-2023 13:24:14 UTC] PHP Notice:  Undefined index: p_details in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 298
+[03-Oct-2023 13:24:14 UTC] PHP Notice:  Undefined index: p_details in /home/cso3qwk9mv4n/public_html/ecommerce/admin/section.php on line 306
